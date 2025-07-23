@@ -21,6 +21,7 @@ Curl bash scripts for set up things that I do often
 - Upgrades system
 - Installs: fish tmux btop duf ncdu curl wget rsync (optinal: docker, docker-compose)
 - Sets fish as the shell
+- Install Tailscale, and makes qr login script
 
 Without Docker
 
