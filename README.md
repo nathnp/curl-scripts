@@ -28,4 +28,4 @@ Without Docker
 
 With docker
 
-`curl https://curl.nthp.me/do-setup-docker.sh | bash`
+`curl https://curl.nthp.me/arch-setup-docker.sh | bash`
