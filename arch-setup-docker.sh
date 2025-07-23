@@ -1,7 +1,7 @@
 #!/bin/bash
 
-packman -Syu
-packman -S fish tmux btop duf ncdu curl wget rsync docker docker-compose
+pacman -Syu
+pacman -S fish tmux btop duf ncdu curl wget rsync docker docker-compose
 
 chsh -s $(which fish)
 
